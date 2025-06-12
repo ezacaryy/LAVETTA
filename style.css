@@ -644,11 +644,11 @@ form .btn{
     filter: drop-shadow(0 0 23px var(--animation-color))
   }
   .btt {
-    --border-color: linear-gradient(-45deg, #bfbfbf, #ffea00ae, #0a0909);
+    --border-color: linear-gradient(-45deg, #bfbfbf, #838172ae, #0a0909);
     --border-width: 0.125em;
     --curve-size: 0.5em;
     --blur: 30px;
-    --bg: #080312;
+    --bg: #eac804df;
     --color: #fefefe;
     color: var(--color);
     cursor: pointer;

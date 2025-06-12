@@ -31,7 +31,7 @@ menubar.onclick= ()=>{
 }
 // <!-- =============================CREATE A TEXT CHANGER============================= -->
 var type= new Typed('.textline',{
-    strings:["FULL BODY CARE","HAMMAM, SPA", "SOIN De Vissage - Cheveux", "EPILATION Definitive Laser","BOTOX ET Filler" ],
+    strings:["FULL BODY CARE", "SOIN DE VISSAGE/CHEVEUX", "EPILATION DEFINITIVE LASER","HAMMAM, SPA","BOTOX/FILLER" ],
     typeSpeed:100,
     backSpeed:100,
     backDelay:500,
