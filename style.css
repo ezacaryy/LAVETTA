@@ -172,7 +172,7 @@ span{
 }
 .home-img img{
     width: 30vw;    
-    animation: Zoom 1 ease forwards, Float 4s ease-in-out infinite;
+    animation: Zoom 1 ease forwards, Float 5s ease-in-out infinite;
     animation-delay: 2s,3s;
     opacity: 0;
 }
@@ -289,7 +289,7 @@ span{
     width: 100%;
     height: 100%;
     background: linear-gradient(
-        rgba(16, 16, 16, 0.162), #00000060
+        rgba(17, 17, 17, 0.162), #b8af00a6
     ) ;
     display: flex;
     justify-content: center;
@@ -322,7 +322,7 @@ span{
 }
 .port-head i{
     font-size: 2rem;
-    color: #111;
+    color: #e9dd00;
 }
 .contact h2{
     margin-bottom: 3rem;
@@ -644,12 +644,12 @@ form .btn{
     filter: drop-shadow(0 0 23px var(--animation-color))
   }
   .btt {
-    --border-color: linear-gradient(-45deg, #bfbfbf, #838172ae, #0a0909);
+    --border-color: linear-gradient(-45deg, #bfbfbf, #fcdf00d3, #0a0909);
     --border-width: 0.125em;
     --curve-size: 0.5em;
     --blur: 30px;
-    --bg: #eac804df;
-    --color: #fefefe;
+    --bg: #6f6f6fdf;
+    --color: #e7f300;
     color: var(--color);
     cursor: pointer;
     /* use position: relative; so that BG is only for .btn */
