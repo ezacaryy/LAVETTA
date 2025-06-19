@@ -31,9 +31,10 @@ menubar.onclick= ()=>{
 }
 // <!-- =============================CREATE A TEXT CHANGER============================= -->
 var type= new Typed('.textline',{
-    strings:["FULL BODY CARE", "SOIN DE VISSAGE/CHEVEUX", "EPILATION DEFINITIVE LASER","HAMMAM, SPA","BOTOX/FILLER" ],
+    strings:["Nous proposons des offres allant de 30 DH à 2000 DH, adaptées à tous les besoins et budgets.", "SOIN DE VISSAGE / CHEVEUX", "EPILATION DEFINITIVE LASER","HAMMAM SPA","BOTOX / FILLER" ],
     typeSpeed:100,
     backSpeed:100,
     backDelay:500,
     loop:true
 })
+
